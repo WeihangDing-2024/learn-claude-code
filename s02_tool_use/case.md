@@ -1,0 +1,1 @@
+- Learn-claude-code teaches harness engineering: building the operational environment (tools, knowledge, context, permissions) around an LLM model to create working agents, not the intelligence itself—the model is the driver, the harness is the vehicle.
